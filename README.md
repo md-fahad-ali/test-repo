@@ -1,3 +1,2 @@
 # New Draft
-
-Write your markdown here...
+Hello World
