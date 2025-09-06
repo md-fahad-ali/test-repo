@@ -1,3 +1,3 @@
 # New Draft
 
-Write your markdown here... I know you 
+Write your markdown here...
