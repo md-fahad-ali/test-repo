@@ -1,3 +1,3 @@
-# New Drafts
+# New Draft
 
-=dfonin
+Write your markdown here...
